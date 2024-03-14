@@ -1,4 +1,5 @@
 # git_test
 My first repository for testing purposes 
 
-> Currently testing branches 
+> Tested branches 
+> Currently testing multi line commit messages
