@@ -5,4 +5,3 @@ My first repository for testing purposes
 
 > Currently testing multi line commit messages
 
-> cURRENTLY boring Joep
